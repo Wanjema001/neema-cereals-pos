@@ -1,0 +1,6 @@
+{
+  "name": "Neema Cereals POS & Inventory System",
+  "description": "Comprehensive retail POS, live inventory tracking, purchases, end-of-day cash reconciliation, and sales reports for Neema Cereals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
